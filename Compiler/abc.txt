@@ -1,0 +1,45 @@
+if (ter == 3)
+b brrr breaking
+brekkk break breawf breaj
+else else if else if if else
+///dadada/
+/*dddd*//
+/*ddd*
+*/
+
+> =  >= <><=<
+
+44.6 + 22 22.3/45.5 12 +34.4 23.4 * 66.5
+fvdlfi bshirn fnerfbinine ehbsej break for i = 3+3;
+
+x = d/e ;
+char g;
+continue;
+#include<iostream>
+using namespace std;
+int main()
+{
+ int m,n,t;
+ while(scanf("%d%d",&m,&n))
+ {
+  t=0;
+  while(m>0&&n>0)
+  {
+   if(m==n&& m==1)
+    break;
+   if(m>n)
+   {
+    m=m-2;
+    n=n+1;
+   }
+   else
+   {
+    m=m+1;
+    n=n-2;
+   }
+   t++;
+  }
+  printf("%d\n",t);
+ }
+ return 0;
+}
